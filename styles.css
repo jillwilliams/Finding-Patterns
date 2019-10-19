@@ -1,0 +1,81 @@
+body {
+    letter-spacing: 4px;
+    background-color: grey;
+    color: white;
+}
+/* TEXT: HEADING TITLE */
+h1 {
+    font-size: 2.5rem;
+    color: black;
+    font-family: "Mansalva", cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+/* TEXT: FIRST AND SECOND INTRODUCTORY PARAGRAPHS */
+h2, p {
+    font-size: 2rem;
+    color: black;
+    font-family: "Mansalva", cursive;
+}
+/* LINE: HORIZONTAL LINE FORMATTING */
+hr {
+    width: 100%;
+    height: 2px;
+    color: aqua;
+
+}
+/* IMAGE: THE FIRST PATTERN IMAGE */
+#pattern1 {
+    width: 80%;
+    height: auto;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+/* BUTTON: THE SUBMIT BUTTON FOR PATTERN #1 */
+#submitButton {
+    width: 40%;
+    height: auto;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 1rem;
+}
+/* TEXT: BLUE HEPTAGON */
+#demo, #demo1, #demo2 {
+    width: 37%;
+    height: 30px;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 10px;
+}
+/* IMAGE: THE DAYS OF THE WEEK PATTERN */
+#pattern2 {
+    width: 80%;
+    height: auto;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+/* IMAGE: THIRD PATTERN: NUMERICAL */
+#pattern3 {
+    width: 60%;
+    height: auto;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+footer {
+    font-size: 1rem;
+    color: white;
+    font-family: "Mansalva", cursive;
+    text-align: center;
+}
